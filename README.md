@@ -7,8 +7,9 @@ Esse repositóro, contém materiais do que eu tenho aprendido e projetos que est
 Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://www.linkedin.com/in/hytsuboi/). 📫
 
 -----------------------
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hytsuboi/)](https://www.linkedin.com/in/hytsuboi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ht10614@gmail.com)](mailto:ht10614@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hytsuboi/)](https://www.linkedin.com/in/hytsuboi/)
 
 
 <!--TODO: Um dia, adicionar essa badge do DEV.to
