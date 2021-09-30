@@ -1,6 +1,5 @@
 ### Olá, eu sou o Henrique 👋
 
-...
 Esse repositóro, contém materiais do que eu tenho aprendido e projetos que estão em andamento com amigos.
 Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://www.linkedin.com/in/hytsuboi/). 📫
 <div align="center">
@@ -8,7 +7,9 @@ Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://ww
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquetsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetsu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 -----------------------
+  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ht10614@gmail.com)](mailto:ht10614@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hytsuboi/)](https://www.linkedin.com/in/hytsuboi/)
 
