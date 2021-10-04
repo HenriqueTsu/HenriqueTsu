@@ -5,7 +5,7 @@ Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://ww
 <div align="center">
   <a href="https://github.com/henriquetsu">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henriquetsu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetsu&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetsu&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 -----------------------
