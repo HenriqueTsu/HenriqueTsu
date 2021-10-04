@@ -4,7 +4,7 @@ Esse repositóro, contém materiais do que eu tenho aprendido e projetos que est
 Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://www.linkedin.com/in/hytsuboi/). 📫
 <div align="center">
   <a href="https://github.com/henriquetsu">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henriquetsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henriquetsu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetsu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
